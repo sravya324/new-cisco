@@ -1,0 +1,259 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  margin: 0 10px;
+  font-size: 14px;
+}
+
+.top-strip {
+  background-color: #f5f6f7;
+  padding: 2px 2px;
+}
+
+.header {
+  background-color: white;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 20px;
+}
+
+.logo {
+  color: #007cc3;
+  font-size: 24px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.btn {
+  border: 1px solid #007cc3;
+  padding: 6px 12px;
+  border-radius: 20px;
+  color: #007cc3;
+  font-size: 14px;
+  margin-right: 10px;
+}
+.btn-primary {
+  background-color: white;
+  color: black;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: bold;  
+}
+.background {
+	background-image: url('C:\Users\mohan\Downloads\ciscobackground.jpg');
+	background-repeat: no-repeat;
+}
+
+.input[type="text"] {
+  padding: 5px 10px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+}
+.hero {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: left;
+}
+
+.location {
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 10px 0;
+}
+
+.desc {
+  font-size: 18px;
+  margin: 10px 0 20px;
+  color: #e0e0e0;
+}
+
+.register-btn {
+  background-color: white;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 25px;
+  font-weight: bold;
+}
+.tools {
+	  background-color: white;
+  padding: 30px 30px;
+}
+div.gallery {
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: center;
+  width: 350px;
+  height:600px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 90%;
+  height:40%;
+  align-items:center;
+}
+
+div.desc {
+  padding: 15px;
+  text-align:left;
+  
+  color:black;
+}
+div.gallery a{
+	color:blue;
+	text-decoration:underline;
+	padding:5px 5px 5px;
+}
+div.gallery a:hover {
+	border:4px solid blue;
+}
+
+.title-heading {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #111;
+    margin: 20px 0;
+}
+
+.tech-card {
+    text-decoration: none;
+    color: #111;
+    display: block;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tech-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+	border:1px solid blue;
+}
+
+.tech-label {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-top: 10px;
+    font-family: 'Arial', sans-serif;
+}
+
+.tech-image {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px auto;
+}
+.table-container {
+    padding: 40px 80px; 
+}
+
+.pad {
+    padding: 30px;
+    vertical-align: top;
+}
+
+.heading {
+    font-family: Arial, sans-serif;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #111;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.btn-lk {
+    display: inline-block;
+    padding: 10px 18px;
+    font-size: 0.95rem;
+    color: #0055ff;
+    border: 1px solid #0055ff;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+.btn-lk:hover {
+    background-color: #0055ff;
+    color: white;
+}
+
+.image-responsive {
+    width: 100%;
+    height: auto;
+}
+.footer-link-text {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+  margin: 0 10px;
+}
+
+.social-icon {
+  padding-left: 10px;
+}
+
+.icon-img {
+  vertical-align: middle;
+}
+
+.footer-line {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+.copyright-text {
+  padding-top: 10px;
+  font-size: 12px;
+  color: #666;
+}
+.main-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .header-row {
+      font-size: 20px;
+      padding-bottom: 10px;
+      text-align: left;
+    }
+
+    .content-cell {
+      vertical-align: top;
+      padding: 10px;
+    }
+
+    .section-title {
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+
+    .section-link a {
+      color: #0071c5;
+      text-decoration: none;
+    }
+
